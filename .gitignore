@@ -1,0 +1,13 @@
+output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.jpg
+*.jpeg
+*.png
+*.bmp
+!**/fixtures/**
+.DS_Store
+Thumbs.db
