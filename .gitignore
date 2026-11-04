@@ -11,3 +11,4 @@ venv/
 !**/fixtures/**
 .DS_Store
 Thumbs.db
+*.log
