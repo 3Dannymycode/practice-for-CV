@@ -1,0 +1,5 @@
+{
+  "hidden_size": 64,
+  "din": 64,
+  "num_classes": 10
+}
